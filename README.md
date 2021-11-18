@@ -1,2 +1,2 @@
 # sptest
-Shopify test (amatyi dev) sablon fejlesztés
+Shopify test (amatyi dev) theme development
